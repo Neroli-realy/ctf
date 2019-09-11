@@ -1,0 +1,6 @@
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\bin\Debug\FibSocket_solve.exe.config
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\bin\Debug\FibSocket_solve.exe
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\bin\Debug\FibSocket_solve.pdb
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\obj\Debug\FibSocket_solve.csprojResolveAssemblyReference.cache
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\obj\Debug\FibSocket_solve.exe
+E:\Programming\My Projects\FibSocket_solve\FibSocket_solve\obj\Debug\FibSocket_solve.pdb
