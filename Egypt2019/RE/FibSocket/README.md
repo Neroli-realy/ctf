@@ -112,8 +112,8 @@ and i got the flag :)
    
  ## Thanks
  
- thanks to my friend Mohammed Abd El-Moneim **(Anonymas)** for his python script because i didn't learn python **Yet** :)
- and for magdy mostafa **(Rebellion)** and youssef mohammed and mustafa **(IGeek)** mahmoud kamal **(d35ha)** for helping me to train on RE before the competition 
+ thanks to my friend Mohammed Abd El-Moneim [**(Anonymas)**](https://www.facebook.com/MohamedMn3m) for his python [script](https://github.com/Neroli-realy/ctf/blob/master/Egypt2019/RE/FibSocket/solve.py) **more easy in coding** because i didn't learn python **Yet** :)
+ and for magdy mostafa [**(Rebellion)**](https://www.facebook.com/magdy.moustafa.900) and youssef mohammed and mustafa **(IGeek)** mahmoud kamal [**(d35ha)**](https://www.facebook.com/d35hax)  for helping me to train on RE before the competition 
   
 i just started solved Re challenges from 2 weaks :)
 my team **(which am really proud of)** got the 5th place
