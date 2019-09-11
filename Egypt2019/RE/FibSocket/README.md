@@ -36,7 +36,7 @@ and it's:
 ### -accepting the client and sending a **buffer** to it 
 ### -then it's going into a loop and sends another buffers with length 4
 ### -v27 and v26 are random values 
-### -note that the dword_EB4020 is a **fibonacci sequence** starting from 3 
+### -note that the dword_EB4024 is a **fibonacci sequence** starting from 3 
 ![4](https://user-images.githubusercontent.com/25514920/64659854-20829380-d43e-11e9-90ef-c2fd29382bcf.png)
 
 
